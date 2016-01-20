@@ -1,0 +1,12 @@
+{
+	"name"         : "Java-Stubs",
+	"version"      : "*",
+	"description"  : "Temporary placeholders for Java core classes",
+	"provides"     : {
+		"BufferedReader" : "lib/Grammar.pm",
+		"String"         : "lib/String.pm",
+		"TreeMap"        : "lib/TreeMap.pm",
+		"Vector"         : "lib/Vector.pm",
+	},
+	"source-url"   : "git://github.com/drforr/perl6-Java-Stubs.git"
+}
